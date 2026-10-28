@@ -13,3 +13,4 @@ A lost and found web app built with PHP and MySQL.
 - Post lost and found items
 - Admin approval of posts
 - Notifications and community page
+- Filter Option for items
