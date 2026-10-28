@@ -1,0 +1,5 @@
+node_modules/
+# If config.php has sensitive database passwords, add it:
+# config.php
+.DS_Store
+Thumbs.db
