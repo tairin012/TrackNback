@@ -1,0 +1,12 @@
+config.php
+*.env
+
+node_modules/
+
+imgs/idcard.jpg
+imgs/WhatsApp*
+imgs/uploads/
+
+*.zip
+*.ai
+*.eps
